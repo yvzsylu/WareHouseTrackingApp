@@ -1,0 +1,21 @@
+C:\Users\Yazılımcı\source\repos\Depo Takip Uygulamasi\Depo Takip Uygulamasi\bin\Debug\Depo Takip Uygulamasi.exe.config
+C:\Users\Yazılımcı\source\repos\Depo Takip Uygulamasi\Depo Takip Uygulamasi\bin\Debug\Depo Takip Uygulamasi.exe
+C:\Users\Yazılımcı\source\repos\Depo Takip Uygulamasi\Depo Takip Uygulamasi\bin\Debug\Depo Takip Uygulamasi.pdb
+C:\Users\Yazılımcı\source\repos\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Yazılımcı\source\repos\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo_Takip_Uygulamasi.Properties.Resources.resources
+C:\Users\Yazılımcı\source\repos\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Yazılımcı\source\repos\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Yazılımcı\source\repos\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.exe
+C:\Users\Yazılımcı\source\repos\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.pdb
+C:\Users\Yazılımcı\source\repos\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo_Takip_Uygulamasi.Form1.resources
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\bin\Debug\Depo Takip Uygulamasi.exe.config
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\bin\Debug\Depo Takip Uygulamasi.exe
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\bin\Debug\Depo Takip Uygulamasi.pdb
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.csproj.AssemblyReference.cache
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.csproj.SuggestedBindingRedirects.cache
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo_Takip_Uygulamasi.Form1.resources
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo_Takip_Uygulamasi.Properties.Resources.resources
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.csproj.GenerateResource.cache
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.csproj.CoreCompileInputs.cache
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.exe
+F:\INFOTECH\04.2022\08.04.2022\Depo Takip Uygulamasi\Depo Takip Uygulamasi\obj\Debug\Depo Takip Uygulamasi.pdb
